@@ -2,6 +2,12 @@
 
 A production-ready **Retrieval-Augmented Generation (RAG)** chatbot application that processes PDF documents, extracts text, generates embeddings using Azure OpenAI, stores them in MongoDB, and detects duplicate PDFs using cosine similarity.
 
+
+<img width="692" height="286" alt="image" src="https://github.com/user-attachments/assets/b42badae-e968-4a91-9a19-c81b11f45c93" />
+
+
+
+
 ## 🚀 Features
 
 - **PDF Upload & Processing**: Upload PDF files and automatically extract text
