@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+motor
+openai>=1.0
+pymupdf
+numpy
